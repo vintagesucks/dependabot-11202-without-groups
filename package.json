@@ -12,7 +12,7 @@
         "@storybook/vue3": "^8.2.6",
         "@storybook/vue3-vite": "^8.2.6",
         "@tailwindcss/forms": "^0.5.9",
-        "@tailwindcss/typography": "^0.5.15",
+        "@tailwindcss/typography": "^0.5.16",
         "@vitejs/plugin-vue": "^5.0.5",
         "@vitejs/plugin-vue-jsx": "^4.0.1",
         "@vue/test-utils": "^2.4.6",
